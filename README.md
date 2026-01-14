@@ -1,4 +1,4 @@
-# Diseño-digital-avanzado-pantalla-LCD-16x2
+# Diseño digital avanzado de FPGA con pantalla LCD 16x2
 Este proyecto implementa un controlador completo para una pantalla LCD de 16x2 caracteres basado en el estándar Hitachi HD44780, diseñado en VHDL sintetizable. El sistema fue desarrollado para una placa de desarrollo FPGA (Nexys 4) operando a 100 MHz.
 
 Características principales:
