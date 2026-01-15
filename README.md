@@ -15,7 +15,7 @@
   <img src="media/nexys-4-0.png" alt="Nexys 4 FPGA Setup" width="600">
   <br>
   <em>Figura 1: Nexys 4</em>
-</p>*
+</p>
 
 ---
 
