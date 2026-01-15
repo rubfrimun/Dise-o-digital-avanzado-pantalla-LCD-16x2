@@ -11,8 +11,11 @@
 
 ## Hardware
 
-![Foto del Proyecto](nexys-4-0.png)
-*(Nexys 4 Artix-7 FPGA Trainer Board)*
+<p align="center">
+  <img src="media/nexys-4-0.png" alt="Nexys 4 FPGA Setup" width="600">
+  <br>
+  <em>Figura 1: Nexys 4</em>
+</p>*
 
 ---
 
@@ -88,10 +91,11 @@ El diseño utiliza los puertos PMOD **JC** y **JD** de la Nexys 4.
 
 ```text
 ├── constraints/       # Archivos de restricciones físicas (.xdc)
-├── doc/               # Documentación (Diagramas, Datasheets)
-├── img/               # Imágenes para este README
 ├── src/               # Código Fuente VHDL (.vhd)
 │   ├── lcd1_design.vhd
 │   └── lcd2_design.vhd
 ├── tb/                # Testbenches para simulación
+├── bit/               # Ficheros bit para probar 
+├── media/             # Imágenes para este README
 └── README.md          # Este archivo
+
