@@ -25,6 +25,12 @@ Este repositorio contiene el diseño, simulación e implementación de un contro
 
 El objetivo principal fue crear un diseño síncrono capaz de manejar los complejos requisitos de temporización del LCD (tiempos de espera en microsegundos y milisegundos) operando con un reloj de sistema de **100 MHz**.
 
+<p align="center">
+  <img src="media/pantalla_lcd.png" alt="Nexys 4 FPGA Setup" width="400">
+  <br>
+  <em>Figura 2: Pantalla LCD 16x2</em>
+</p>
+
 ### Módulos del Proyecto
 
 El repositorio incluye dos iteraciones del diseño:
